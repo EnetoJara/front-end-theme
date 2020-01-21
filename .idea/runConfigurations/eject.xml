@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="eject" type="js.build_tools.npm" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <package-json value="$PROJECT_DIR$/eneto-ui/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="eject" />
+    </scripts>
+    <node-interpreter value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
