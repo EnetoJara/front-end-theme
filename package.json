@@ -41,7 +41,7 @@
   "devDependencies": {
     "prettier": "1.19.1",
     "prettier-stylelint": "0.4.2",
-    "stylelint": "13.0.0",
+    "stylelint": "15.10.1",
     "tslib": "1.10.0",
     "typescript": "3.7.5"
   }
